@@ -126,12 +126,12 @@ Pushing and pulling
 
 # Completion checklist ----------------------------------------------------
 
-# [ ] I completed all questions.
-# [ ] I reviewed my changes using Diff.
-# [ ] I staged the file after reviewing my changes.
-# [ ] I created the first commit.
-# [ ] I pushed the first commit.
-# [ ] I verified the file on GitHub.
-# [ ] I made a second change.
-# [ ] I created and pushed a second commit.
-# [ ] I reopened the existing RStudio Project without cloning it again.
+# [x ] I completed all questions.
+# [x ] I reviewed my changes using Diff.
+# [x ] I staged the file after reviewing my changes.
+# [x ] I created the first commit.
+# [x ] I pushed the first commit.
+# [x ] I verified the file on GitHub.
+# [x ] I made a second change.
+# [x ] I created and pushed a second commit.
+# [x ] I reopened the existing RStudio Project without cloning it again.
