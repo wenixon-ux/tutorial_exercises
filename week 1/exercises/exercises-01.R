@@ -99,7 +99,7 @@
 # Answer the following question:
 #
 # One Git concept I understand better now is:
-
+Pushing and pulling
 
 
 # Save the file again, then repeat:
